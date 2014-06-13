@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+		<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<title>CV | Just another WordPress site</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="http://shiftcv.themerex.net/xmlrpc.php" />
+	<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic&subset=latin,cyrillic-ext,latin-ext,cyrillic' rel='stylesheet' type='text/css'>
+        	<link href="http://shiftcv.themerex.net/wp-content/uploads/2013/09/favicon8.ico" rel="shortcut icon" type="image/x-icon" />
+    	<!--[if lt IE 9]>
+		<script src="http://shiftcv.themerex.net/wp-content/themes/cv/js/html5.js" type="text/javascript"></script>
+	<![endif]-->
+	
+		<link rel="alternate" type="application/rss+xml" title="CV &raquo; Feed" href="http://shiftcv.themerex.net/feed/" />
+<link rel="alternate" type="application/rss+xml" title="CV &raquo; Comments Feed" href="http://shiftcv.themerex.net/comments/feed/" />
+<link rel='stylesheet' id='prettyphoto-style-css'  href='http://shiftcv.themerex.net/wp-content/themes/cv/js/prettyphoto/css/prettyPhoto.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaplayer-style-css'  href='http://shiftcv.themerex.net/wp-content/themes/cv/js/mediaplayer/mediaelementplayer.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery_reject-style-css'  href='http://shiftcv.themerex.net/wp-content/themes/cv/js/jreject/css/jquery.reject.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='shift_cv-style-css'  href='http://shiftcv.themerex.net/wp-content/themes/cv/style.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='theme_dark-css'  href='http://shiftcv.themerex.net/wp-content/themes/cv/css/dark-theme.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='shortcodes-css'  href='http://shiftcv.themerex.net/wp-content/themes/cv/css/shortcodes.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css'  href='http://shiftcv.themerex.net/wp-content/themes/cv/css/responsive.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font_awesome-css'  href='http://shiftcv.themerex.net/wp-content/themes/cv/includes/font-awesome/css/font-awesome.min.css?ver=1.0' type='text/css' media='screen' />
+<link rel='stylesheet' id='custom-style-css'  href='http://shiftcv.themerex.net/wp-content/themes/cv/css/custom.css?ver=3.5.1' type='text/css' media='all' />
+<style type='text/css'>
+
+	#blog_page_link,
+	#blog_page_link .icon,
+	#blog_page_link span.label,
+	.colored td.cl1 { 
+		background-color: #327ea3;
+	}
+	#profile_page_link,
+	#profile_page_link .icon,
+	#profile_page_link span.label,
+	.colored td.cl2 {
+		background-color: #4ca5d0;
+	}
+	.section_header.profile_section_header .section_title .section_name,
+	.section_header.profile_section_header .section_title a span.icon {
+		background-color: #4ca5d0;
+	}
+	#resume_link_download,
+	#resume_link_download  span.label,
+	#resume_link_download  span.icon {
+		background: #019875;
+	}
+	.section_header .section_title.portfolio_section_title a span.icon,
+	.colored td.cl4 {
+		background-color: #ffbc38;
+	}    
+	
+	#mainpage_accordion_area .section_header.contact_section_header a span.icon,
+	.colored td.cl5,
+	.sc_contact_form .title:after {
+		background-color: #e82c0c;
+	}
+	.section_header .section_title.resume_section_title a span.icon,
+	.colored td.cl3,
+	#resume_link,
+	#resume_link span.label,
+	#resume_link span.icon {
+		background-color: #6ca338;
+	}
+	.section_header .section_title.testi_section_title a span.icon {
+		background-color: #C4D747;
+	}
+	.section_header .section_title a span.icon, 
+	.section_header .section_title strong span.icon {
+		background-color: #327ea3;
+	}
+	.blog_section .section_header .section_title .section_name {
+		background-color: #327ea3;
+	}
+	.section_header.gallery .section_title strong span.section_name, 
+	.section_header.gallery .section_title strong span.icon {
+		background-color: #6ca338;
+	}
+	.section_header.status .section_title strong span.section_name, 
+	.section_header.status .section_title strong span.icon {
+		background-color: #ebb72c;
+	}
+	.section_header.audio .section_title strong span.section_name,
+	.section_header.audio .section_title strong span.icon {
+		background-color: #ffbc38;
+	}
+	.section_header.video .section_title strong span.section_name,
+	.section_header.video .section_title strong span.icon {
+		background-color: #e82c0c;
+	}
+	.section_header.link .section_title strong span.section_name,
+	.section_header.link .section_title strong span.icon {
+		background-color: #4ca5d0;
+	}
+	.section_header.quote .section_title strong span.section_name,
+	.section_header.quote .section_title strong span.icon {
+		background-color: #33cccc;
+	}
+	.section_header.quote .section_title strong span.section_name,
+	.section_header.quote .section_title strong span.icon {
+		background-color: #33cccc;
+	}
+	#scrollTo,
+	#scrollTo .icon {
+		background-color: #815b97;
+	}
+
+  body, button, input, select, textarea,
+  .tp-caption {
+   font-family: 'Lato', sans-serif;
+  }
+  
+</style>
+<script type='text/javascript' src='http://shiftcv.themerex.net/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://shiftcv.themerex.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://shiftcv.themerex.net/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.5.1" />
+	</head>
+
+<body class="home blog light">
+	<!--[if lt IE 8]>
+	
+		<div class="sc_infobox sc_infobox_style_error">
+			It looks like you're using an old version of Internet Explorer. For the best WordPress experience, please <a href="http://microsoft.com">update your browser</a> or learn how to <a href="http://browsehappy.com">browse happy</a>!
+		</div>
+			<![endif]-->
+	<table class="colored">
+		<tr>
+			<td class="cl1"></td>
+			<td class="cl2"></td>
+			<td class="cl3"></td>
+			<td class="cl4"></td>
+			<td class="cl5"></td>
+		</tr>
+	</table>
+		<div id="swither_block">
+		<a href="#" id="theme_switcher"><span class="switch_icon icon-cog"></span><span class="switch_wrap">Dark version</span></a>
+	</div>
+	    <div id="page" class="hfeed site">
+                <header id="header" class="site_header" role="banner">
+							<div class="social_links">
+					<ul>
+						<li class="rss"><a target="_blank" href="http://themeforest.net/user/themerex">RSS</a></li>						<li class="fb"><a target="_blank" href="http://themeforest.net/user/themerex">Facebook</a></li>						<li class="tw"><a target="_blank" href="http://themeforest.net/user/themerex">Twitter</a></li>						<li class="gplus"><a target="_blank" href="http://themeforest.net/user/themerex">Google+</a></li>						<li class="lnkd"><a target="_blank" href="http://themeforest.net/user/wpspace">Linkedin</a></li>						<li class="drb"><a target="_blank" href="http://themeforest.net/user/themerex">Dribbble</a></li>						<li class="vim"><a target="_blank" href="http://themeforest.net/user/themerex" class="vim">Vimeo</a></li>												<li class="pin"><a target="_blank" href="http://themeforest.net/user/themerex" class="pin">Pinterst</a></li>																		
+												
+												
+												
+					</ul>
+				</div>
+			        </header>
+	
+		        
+	    <div id="main"  class="right_sidebar">
+	<div id="primary" class="content_area">
+        <script>
+            jQuery(document).ready(function(){
+                window.print();
+            });
+        </script>   
+		<div id="content" class="site_content" role="main">
+
+			<section id="profile" class="section profile_section first odd printable">
+				<div class="section_header profile_section_header opened">
+										<div id="profile_header">
+                        <table width="100%">
+                            <tr>
+                                <td id="profile_user">
+                                    <div id="profile_photo"><img src="http://shiftcv.themerex.net/wp-content/uploads/2013/07/bigstock-Portrait-Of-A-Beautiful-Mature-7014470-234x234.jpg" alt="Jefferson Sarah" border="0" /></div>
+                                    <div id="profile_name_area">
+                                        <div id="profile_name">
+                                            <h1 id="profile_title"><span class="firstname">Sarah</span> <span class="lastname">Jefferson</span></h1>
+                                            <h4 id="profile_position">Designer</h4>
+                                        </div>                              
+                                    </div>
+                                </td>                 
+        						<td id="profile_data">
+        							<div class="profile_row">
+        								<span class="th">Name:</span><span class="td">Jefferson Sarah</span>
+        							</div>
+        							<div class="profile_row">
+        								<span class="th">Date of birth:</span><span class="td">June 6, 1970</span>
+        							</div>
+        							<div class="profile_row">
+        								<span class="th">Address:</span><span class="td">San Francisco, CA 94102, US</span>
+        							</div>
+        							<div class="profile_row">
+        								<span class="th">Phone:</span><span class="td">+1-541-754-3010</span>
+        							</div>
+        							<div class="profile_row">
+        								<span class="th">Email:</span><span class="td">wpspacetemplates@gmail.com</span>
+        							</div>
+        							<div class="profile_row">
+        								<span class="th">Website:</span><span class="td"><a href="http://themeforest.net/user/themerex">http://themeforest.net/user/themerex</a></span>
+        							</div>
+        						</td>
+                            </tr>                                 
+                        </table>                  
+					</div>	
+				</div>
+				<div class="section_body profile_section_body">
+					<div class="proile_body">
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.					</div>			
+				</div>
+			</section>	
+
+			<section id="resume" class="section resume_section even printable">
+				<div class="section_header resume_section_header">
+				</div>
+				<div class="section_body resume_section_body">
+                    <div class="wrapper resume_wrapper">
+						                        <div class="category resume_category resume_category_1 first even">
+                            <div class="category_header resume_category_header">
+                                <h3 class="category_title"><span class="category_title_icon" style="background-color:#4ca5d0"></span>Employment</h3>
+                            </div>
+                            <div class="category_body resume_category_body">
+                                                            <article class="post resume_post resume_post_1 first even">
+                                    <div class="post_header resume_post_header">
+                                        <div class="resume_period">
+                                            <span class="period_from">2003</span>-<span class="period_to">2007</span>								
+                                        </div>
+                                        <h4 class="post_title"><span class="post_title_icon" style="background-color: #4ca5d0"></span>1.&nbsp;There are many variations of passages</h4>
+                                        <h5 class="post_subtitle">Director of department</h5>
+                                    </div>
+                                    <div class="post_body resume_post_body">
+                                        <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                    </div>
+                                </article>
+                                                                <article class="post resume_post resume_post_2 odd">
+                                    <div class="post_header resume_post_header">
+                                        <div class="resume_period">
+                                            <span class="period_from">2001</span>-<span class="period_to period_present">present</span>								
+                                        </div>
+                                        <h4 class="post_title"><span class="post_title_icon" style="background-color: #4ca5d0"></span>2.&nbsp;Cooper Union</h4>
+                                        <h5 class="post_subtitle">Programmer</h5>
+                                    </div>
+                                    <div class="post_body resume_post_body">
+                                        <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                    </div>
+                                </article>
+                                                            </div> <!-- .category_body -->
+                        </div> <!-- .category -->
+                                                <div class="category resume_category resume_category_2 odd">
+                            <div class="category_header resume_category_header">
+                                <h3 class="category_title"><span class="category_title_icon" style="background-color:#6ca338"></span>Education</h3>
+                            </div>
+                            <div class="category_body resume_category_body">
+                                                            <article class="post resume_post resume_post_1 first even">
+                                    <div class="post_header resume_post_header">
+                                        <div class="resume_period">
+                                            <span class="period_from">2001</span>-<span class="period_to">2001</span>								
+                                        </div>
+                                        <h4 class="post_title"><span class="post_title_icon" style="background-color: #6ca338"></span>1.&nbsp;Lorem Contrary to popular belief</h4>
+                                        <h5 class="post_subtitle">Web design</h5>
+                                    </div>
+                                    <div class="post_body resume_post_body">
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                                    </div>
+                                </article>
+                                                                <article class="post resume_post resume_post_2 odd">
+                                    <div class="post_header resume_post_header">
+                                        <div class="resume_period">
+                                            <span class="period_from">1996</span>-<span class="period_to">2000</span>								
+                                        </div>
+                                        <h4 class="post_title"><span class="post_title_icon" style="background-color: #6ca338"></span>2.&nbsp;Lorem Ipsum is simply dummy text</h4>
+                                        <h5 class="post_subtitle">Graphic design</h5>
+                                    </div>
+                                    <div class="post_body resume_post_body">
+                                        <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                                    </div>
+                                </article>
+                                                            </div> <!-- .category_body -->
+                        </div> <!-- .category -->
+                                        	</div> <!-- .wrapper -->
+				</div> <!-- .section_body -->
+				<div class="sidebar resume_sidebar cleared">
+                    <h2 class="sidebar_title">Skills</h2>
+										<aside id="skills-widget-3" class="widget widget_skills"><h3 class="widget_title">Programming skills</h3>			
+		<div class="widget_inner style_1">
+			<div class="skills_row odd first"><span class="caption">Wordpress</span><span class="progressbar"><span class="progress" style="background-color:#327ea3;" rel="90%"><span class="value">90%</span></span></span></div><div class="skills_row even"><span class="caption">PHP</span><span class="progressbar"><span class="progress" style="background-color:#4ca5d0;" rel="80%"><span class="value">80%</span></span></span></div><div class="skills_row odd"><span class="caption">HTML</span><span class="progressbar"><span class="progress" style="background-color:#6ca338;" rel="93%"><span class="value">93%</span></span></span></div><div class="skills_row even"><span class="caption">CSS</span><span class="progressbar"><span class="progress" style="background-color:#ffbc38;" rel="80%"><span class="value">80%</span></span></span></div><div class="skills_row odd"><span class="caption">MySQL</span><span class="progressbar"><span class="progress" style="background-color:#e82c0c;" rel="70%"><span class="value">70%</span></span></span></div>		</div>
+</aside><aside id="skills-widget-2" class="widget widget_skills"><h3 class="widget_title">Graphic Skills</h3>			
+		<div class="widget_inner style_1">
+			<div class="skills_row odd first"><span class="caption">Adobe Photoshop</span><span class="progressbar"><span class="progress" style="background-color:#327ea3;" rel="90%"><span class="value">90%</span></span></span></div><div class="skills_row even"><span class="caption">Adobe Illustrator</span><span class="progressbar"><span class="progress" style="background-color:#4ca5d0;" rel="80%"><span class="value">80%</span></span></span></div><div class="skills_row odd"><span class="caption">Adobe Indesign</span><span class="progressbar"><span class="progress" style="background-color:#6ca338;" rel="50%"><span class="value">50%</span></span></span></div><div class="skills_row even"><span class="caption">Corel Draw</span><span class="progressbar"><span class="progress" style="background-color:#ffbc38;" rel="60%"><span class="value">60%</span></span></span></div><div class="skills_row odd"><span class="caption">3D Max</span><span class="progressbar"><span class="progress" style="background-color:#e82c0c;" rel="50%"><span class="value">50%</span></span></span></div>		</div>
+</aside><aside id="skills-widget-4" class="widget widget_skills"><h3 class="widget_title">Language skills</h3>			
+		<div class="widget_inner style_1">
+			<div class="skills_row odd first"><span class="caption">English</span><span class="progressbar"><span class="progress" style="background-color:#4ca5d0;" rel="80%"><span class="value">80%</span></span></span></div><div class="skills_row even"><span class="caption">French</span><span class="progressbar"><span class="progress" style="background-color:#6ca338;" rel="60%"><span class="value">60%</span></span></span></div><div class="skills_row odd"><span class="caption">Spain</span><span class="progressbar"><span class="progress" style="background-color:#ffbc38;" rel="80%"><span class="value">80%</span></span></span></div>		</div>
+</aside>				</div>
+
+			</section> <!-- #resume -->
+
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+    </div><!-- #main -->
+	
+	<footer id="footer" class="site_footer" role="contentinfo">
+		<div class="footer_copyright">
+			ThemeREX &copy; 2013 All Rights Reserved		</div>
+	</footer>
+
+</div><!-- #page -->
+
+<link rel='stylesheet' id='print-theme-css'  href='http://shiftcv.themerex.net/wp-content/themes/cv/css/print.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-skills-css'  href='http://shiftcv.themerex.net/wp-content/themes/cv/widgets/skills/widget-skills.css?ver=3.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://shiftcv.themerex.net/wp-content/themes/cv/js/jquery.tools.custom.js?ver=1.2.6'></script>
+<script type='text/javascript' src='http://shiftcv.themerex.net/wp-content/themes/cv/js/jquerycookie.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://shiftcv.themerex.net/wp-content/themes/cv/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript' src='http://shiftcv.themerex.net/wp-content/themes/cv/js/jquery.flexslider.min.js?ver=2.1'></script>
+<script type='text/javascript' src='http://shiftcv.themerex.net/wp-content/themes/cv/js/prettyphoto/jquery.prettyPhoto.js?ver=3.1.5'></script>
+<script type='text/javascript' src='http://shiftcv.themerex.net/wp-content/themes/cv/js/mediaplayer/mediaelement-and-player.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://shiftcv.themerex.net/wp-content/themes/cv/js/jreject/jquery.reject.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://shiftcv.themerex.net/wp-content/themes/cv/js/jquery.mobilemenu.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://shiftcv.themerex.net/wp-content/themes/cv/js/jquery.easing.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://shiftcv.themerex.net/wp-content/themes/cv/js/_utils.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://shiftcv.themerex.net/wp-content/themes/cv/js/_front.js?ver=1.0.0'></script>
+<a href="#" id="toTop"></a>
+<script type="text/javascript">
+    jQuery(document).ready(function() {
+        jQuery.reject({
+			reject : {
+				all: false, // Nothing blocked
+				msie5: true, msie6: true, msie7: true // Covers MSIE 5-7
+				/*
+				 * Possibilities are endless...
+				 *
+				 * // MSIE Flags (Global, 5-8)
+				 * msie, msie5, msie6, msie7, msie8,
+				 * // Firefox Flags (Global, 1-3)
+				 * firefox, firefox1, firefox2, firefox3,
+				 * // Konqueror Flags (Global, 1-3)
+				 * konqueror, konqueror1, konqueror2, konqueror3,
+				 * // Chrome Flags (Global, 1-4)
+				 * chrome, chrome1, chrome2, chrome3, chrome4,
+				 * // Safari Flags (Global, 1-4)
+				 * safari, safari2, safari3, safari4,
+				 * // Opera Flags (Global, 7-10)
+				 * opera, opera7, opera8, opera9, opera10,
+				 * // Rendering Engines (Gecko, Webkit, Trident, KHTML, Presto)
+				 * gecko, webkit, trident, khtml, presto,
+				 * // Operating Systems (Win, Mac, Linux, Solaris, iPhone)
+				 * win, mac, linux, solaris, iphone,
+				 * unknown // Unknown covers everything else
+				 */
+			},
+            imagePath: 'http://shiftcv.themerex.net/wp-content/themes/cv/js/jreject/images/',
+            header: 'Your browser is out of date', // Header Text
+            paragraph1: 'You are currently using an unsupported browser', // Paragraph 1
+            paragraph2: 'Please install one of the many optional browsers below to proceed',
+            closeMessage: 'Close this window at your own demise!' // Message below close window link
+        });
+    });
+        empt = 'Name field can not be empty';
+        to_lng = 'Too long name field';
+        to_lng = 'Too long name field';
+        empt_mail = 'Too short (or empty) email address';
+        to_lng_mail = 'Too long email address';
+        incor = 'Incorrect email address';
+        mes_empt = 'message can not be empty';
+        to_lng_mes = 'Too long message';
+                init_ind = -1        </script>
+</body>
+</html>

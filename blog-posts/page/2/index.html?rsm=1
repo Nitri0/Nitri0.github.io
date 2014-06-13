@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+		<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<title>Blog posts | CV | Page 2</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="http://shiftcv.themerex.net/xmlrpc.php" />
+	<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic&subset=latin,cyrillic-ext,latin-ext,cyrillic' rel='stylesheet' type='text/css'>
+        	<link href="http://shiftcv.themerex.net/wp-content/uploads/2013/09/favicon8.ico" rel="shortcut icon" type="image/x-icon" />
+    	<!--[if lt IE 9]>
+		<script src="http://shiftcv.themerex.net/wp-content/themes/cv/js/html5.js" type="text/javascript"></script>
+	<![endif]-->
+	
+		<link rel="alternate" type="application/rss+xml" title="CV &raquo; Feed" href="http://shiftcv.themerex.net/feed/" />
+<link rel="alternate" type="application/rss+xml" title="CV &raquo; Comments Feed" href="http://shiftcv.themerex.net/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="CV &raquo; Blog posts Comments Feed" href="http://shiftcv.themerex.net/blog-posts/feed/" />
+<link rel='stylesheet' id='prettyphoto-style-css'  href='http://shiftcv.themerex.net/wp-content/themes/cv/js/prettyphoto/css/prettyPhoto.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaplayer-style-css'  href='http://shiftcv.themerex.net/wp-content/themes/cv/js/mediaplayer/mediaelementplayer.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery_reject-style-css'  href='http://shiftcv.themerex.net/wp-content/themes/cv/js/jreject/css/jquery.reject.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='shift_cv-style-css'  href='http://shiftcv.themerex.net/wp-content/themes/cv/style.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='theme_dark-css'  href='http://shiftcv.themerex.net/wp-content/themes/cv/css/dark-theme.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='shortcodes-css'  href='http://shiftcv.themerex.net/wp-content/themes/cv/css/shortcodes.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css'  href='http://shiftcv.themerex.net/wp-content/themes/cv/css/responsive.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font_awesome-css'  href='http://shiftcv.themerex.net/wp-content/themes/cv/includes/font-awesome/css/font-awesome.min.css?ver=1.0' type='text/css' media='screen' />
+<link rel='stylesheet' id='custom-style-css'  href='http://shiftcv.themerex.net/wp-content/themes/cv/css/custom.css?ver=3.5.1' type='text/css' media='all' />
+<style type='text/css'>
+
+	#blog_page_link,
+	#blog_page_link .icon,
+	#blog_page_link span.label,
+	.colored td.cl1 { 
+		background-color: #327ea3;
+	}
+	#profile_page_link,
+	#profile_page_link .icon,
+	#profile_page_link span.label,
+	.colored td.cl2 {
+		background-color: #4ca5d0;
+	}
+	.section_header.profile_section_header .section_title .section_name,
+	.section_header.profile_section_header .section_title a span.icon {
+		background-color: #4ca5d0;
+	}
+	#resume_link_download,
+	#resume_link_download  span.label,
+	#resume_link_download  span.icon {
+		background: #019875;
+	}
+	.section_header .section_title.portfolio_section_title a span.icon,
+	.colored td.cl4 {
+		background-color: #ffbc38;
+	}    
+	
+	#mainpage_accordion_area .section_header.contact_section_header a span.icon,
+	.colored td.cl5,
+	.sc_contact_form .title:after {
+		background-color: #e82c0c;
+	}
+	.section_header .section_title.resume_section_title a span.icon,
+	.colored td.cl3,
+	#resume_link,
+	#resume_link span.label,
+	#resume_link span.icon {
+		background-color: #6ca338;
+	}
+	.section_header .section_title.testi_section_title a span.icon {
+		background-color: #C4D747;
+	}
+	.section_header .section_title a span.icon, 
+	.section_header .section_title strong span.icon {
+		background-color: #327ea3;
+	}
+	.blog_section .section_header .section_title .section_name {
+		background-color: #327ea3;
+	}
+	.section_header.gallery .section_title strong span.section_name, 
+	.section_header.gallery .section_title strong span.icon {
+		background-color: #6ca338;
+	}
+	.section_header.status .section_title strong span.section_name, 
+	.section_header.status .section_title strong span.icon {
+		background-color: #ebb72c;
+	}
+	.section_header.audio .section_title strong span.section_name,
+	.section_header.audio .section_title strong span.icon {
+		background-color: #ffbc38;
+	}
+	.section_header.video .section_title strong span.section_name,
+	.section_header.video .section_title strong span.icon {
+		background-color: #e82c0c;
+	}
+	.section_header.link .section_title strong span.section_name,
+	.section_header.link .section_title strong span.icon {
+		background-color: #4ca5d0;
+	}
+	.section_header.quote .section_title strong span.section_name,
+	.section_header.quote .section_title strong span.icon {
+		background-color: #33cccc;
+	}
+	.section_header.quote .section_title strong span.section_name,
+	.section_header.quote .section_title strong span.icon {
+		background-color: #33cccc;
+	}
+	#scrollTo,
+	#scrollTo .icon {
+		background-color: #815b97;
+	}
+
+  body, button, input, select, textarea,
+  .tp-caption {
+   font-family: 'Lato', sans-serif;
+  }
+  
+</style>
+<script type='text/javascript' src='http://shiftcv.themerex.net/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://shiftcv.themerex.net/wp-includes/js/comment-reply.min.js?ver=3.5.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://shiftcv.themerex.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://shiftcv.themerex.net/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Sample Page' href='http://shiftcv.themerex.net/sample-page/' />
+<meta name="generator" content="WordPress 3.5.1" />
+<link rel='canonical' href='http://shiftcv.themerex.net/blog-posts/' />
+	</head>
+
+<body class="paged page page-id-40 page-template page-template-template-blog-php paged-2 page-paged-2 dark">
+	<!--[if lt IE 8]>
+	
+		<div class="sc_infobox sc_infobox_style_error">
+			It looks like you're using an old version of Internet Explorer. For the best WordPress experience, please <a href="http://microsoft.com">update your browser</a> or learn how to <a href="http://browsehappy.com">browse happy</a>!
+		</div>
+			<![endif]-->
+	<table class="colored">
+		<tr>
+			<td class="cl1"></td>
+			<td class="cl2"></td>
+			<td class="cl3"></td>
+			<td class="cl4"></td>
+			<td class="cl5"></td>
+		</tr>
+	</table>
+		<div id="swither_block">
+		<a href="#" id="theme_switcher"><span class="switch_icon icon-cog"></span><span class="switch_wrap">Light version</span></a>
+	</div>
+	    <div id="page" class="hfeed site">
+                <header id="header" class="site_header" role="banner">
+							<div class="social_links">
+					<ul>
+						<li class="rss"><a target="_blank" href="http://themeforest.net/user/themerex">RSS</a></li>						<li class="fb"><a target="_blank" href="http://themeforest.net/user/themerex">Facebook</a></li>						<li class="tw"><a target="_blank" href="http://themeforest.net/user/themerex">Twitter</a></li>						<li class="gplus"><a target="_blank" href="http://themeforest.net/user/themerex">Google+</a></li>						<li class="lnkd"><a target="_blank" href="http://themeforest.net/user/wpspace">Linkedin</a></li>						<li class="drb"><a target="_blank" href="http://themeforest.net/user/themerex">Dribbble</a></li>						<li class="vim"><a target="_blank" href="http://themeforest.net/user/themerex" class="vim">Vimeo</a></li>												<li class="pin"><a target="_blank" href="http://themeforest.net/user/themerex" class="pin">Pinterst</a></li>																		
+												
+												
+												
+					</ul>
+				</div>
+			        </header>
+	
+		        
+	    <div id="main"  class="right_sidebar">
+	<section id="profile" class="section profile_section odd first blog_page">
+				<a href="http://shiftcv.themerex.net" id="profile_page_link"><span class="icon-user icon"></span><span class="label">Profile</span></a>
+				<div class="section_header profile_section_header">
+						<div id="profile_header">
+				<div id="profile_user">
+                						<div id="profile_photo"><a href="http://shiftcv.themerex.net"><img src="http://shiftcv.themerex.net/wp-content/uploads/2013/07/bigstock-Portrait-Of-A-Beautiful-Mature-7014470-234x234.jpg" alt="Jefferson Sarah" border="0" /></a></div>
+										<div id="profile_name_area">
+						<div id="profile_name">
+							<h1 id="profile_title"><span class="firstname">Sarah</span> <span class="lastname">Jefferson</span></h1>
+							<h4 id="profile_position">Designer</h4>
+						</div>								
+					</div>
+				</div>	
+			</div>	
+		</div>
+	</section>	
+	<section id="breadcrumbs" class="section breadcrumbs_section even">
+		<div class="section_header breadcrumbs_section_header">
+			<ul class="breadcrumbs"><li class="home"><a href="http://shiftcv.themerex.net">Home</a></li><li class="current">All Resume</li></ul>		</div>
+	</section>	
+	<div id="primary" class="content_area">
+		<div id="content" class="site_content blog_content" role="main">
+		
+					<section class="section blog_section odd last">
+						<div class="section_header blog_section_header ">
+							<h2 class="section_title blog_section_title"><strong><span class="icon icon-pencil"></span><span class="section_name">May.29</span></strong></h2>
+							
+							<div class="post-info">
+								<div class="full_post_date"><span class="icon icon-time"></span>May 29, 2013</div>
+								<a href="http://shiftcv.themerex.net/hello-world/" class="comments_count"><span class="icon-comment"></span>2</a>
+								<a href="http://shiftcv.themerex.net/author/admin/" class="post_author"><span class="icon-user"></span>admin</a>
+							</div>
+						</div>
+						<div class="section_body blog_section_body">
+							<article id="post_1" class="post-1 post type-post status-publish format-standard hentry category-uncategorized post format-standard"><h3 class="post_title"><a href="http://shiftcv.themerex.net/hello-world/">Hello world!</a></h3><div class="text"><p>Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!</p>
+</div><div class="post_additional"><span class="post_categories"><span class="icon-align-left"></span><a href="http://shiftcv.themerex.net/category/uncategorized/" class="post_categories even first last">Uncategorized</a></span></div>
+							</article>
+						</div>
+					</section>
+				<div id="nav_pages" class="nav_pages"><a href="http://shiftcv.themerex.net/blog-posts/?rsm=1" class="prev">Previous</a><div class="next_last"></div><div class="pages"><ul><li><a href="http://shiftcv.themerex.net/blog-posts/?rsm=1" title="1">1</a></li><li class="current"><a href="http://shiftcv.themerex.net/blog-posts/page/2/?rsm=1" title="1">2</a></li>
+				</ul></div>
+						<div class="page_x_of_y">Page <span>2</span> of <span>2</span></div>
+			</div>
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+        <aside id="secondary" class="widget_area sidebar_blog right_sidebar sidebar-blog" role="complementary">
+                        <aside id="categories-2" class="widget widget_categories"><h3 class="widget_title">Categories</h3>		<ul>
+	<li class="cat-item cat-item-1"><a href="http://shiftcv.themerex.net/category/uncategorized/" title="View all posts filed under Uncategorized">Uncategorized</a>
+</li>
+	<li class="cat-item cat-item-15"><a href="http://shiftcv.themerex.net/category/video/" title="View all posts filed under Video">Video</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="http://shiftcv.themerex.net/category/wordpress/" title="View all posts filed under Wordpress">Wordpress</a>
+</li>
+		</ul>
+</aside><aside id="wpspace-recent-posts-widget-2" class="widget widget_wpspace_recent_posts"><h3 class="widget_title">Recent Posts</h3>
+					<ul>
+		
+                        	<li class="article">
+								<h4 class="title"><a href="http://shiftcv.themerex.net/quisque-odio-eros/">Quisque odio eros</a></h4>
+                                <ol class="icons">
+                                	<li class="post_date"><span class="icon-time"></span>Jul.04</li>
+                                	<li class="post_author"><span class="icon-user"></span>admin</li>
+								</ol>
+							</li>
+			
+                        	<li class="article">
+								<h4 class="title"><a href="http://shiftcv.themerex.net/proin-bibendum/">Proin bibendum</a></h4>
+                                <ol class="icons">
+                                	<li class="post_date"><span class="icon-time"></span>Jul.03</li>
+                                	<li class="post_author"><span class="icon-user"></span>admin</li>
+								</ol>
+							</li>
+			
+                        	<li class="article">
+								<h4 class="title"><a href="http://shiftcv.themerex.net/in-mattis-risus-sed/">In mattis risus sed</a></h4>
+                                <ol class="icons">
+                                	<li class="post_date"><span class="icon-time"></span>Jul.02</li>
+                                	<li class="post_author"><span class="icon-user"></span>admin</li>
+								</ol>
+							</li>
+			
+			</ul>
+		</aside><aside id="tag_cloud-2" class="widget widget_tag_cloud"><h3 class="widget_title">Tags</h3><div class="tagcloud"><a href='http://shiftcv.themerex.net/tag/design/' class='tag-link-11' title='1 topic' style='font-size: 8pt;'>Design</a>
+<a href='http://shiftcv.themerex.net/tag/image/' class='tag-link-12' title='1 topic' style='font-size: 8pt;'>image</a>
+<a href='http://shiftcv.themerex.net/tag/slider/' class='tag-link-13' title='1 topic' style='font-size: 8pt;'>Slider</a>
+<a href='http://shiftcv.themerex.net/tag/video/' class='tag-link-15' title='1 topic' style='font-size: 8pt;'>Video</a>
+<a href='http://shiftcv.themerex.net/tag/wordpress/' class='tag-link-14' title='1 topic' style='font-size: 8pt;'>Wordpress</a></div>
+</aside><aside id="calendar-2" class="widget widget_calendar"><div id="calendar_wrap"><table id="wp-calendar">
+	<caption>June 2014</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Monday">M</th>
+		<th scope="col" title="Tuesday">T</th>
+		<th scope="col" title="Wednesday">W</th>
+		<th scope="col" title="Thursday">T</th>
+		<th scope="col" title="Friday">F</th>
+		<th scope="col" title="Saturday">S</th>
+		<th scope="col" title="Sunday">S</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="http://shiftcv.themerex.net/2013/07/" title="View posts for July 2013">&laquo; Jul</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next" class="pad">&nbsp;</td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr>
+		<td colspan="6" class="pad">&nbsp;</td><td>1</td>
+	</tr>
+	<tr>
+		<td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td>
+	</tr>
+	<tr>
+		<td>9</td><td>10</td><td>11</td><td>12</td><td id="today">13</td><td>14</td><td>15</td>
+	</tr>
+	<tr>
+		<td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td>
+	</tr>
+	<tr>
+		<td>23</td><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td><td>29</td>
+	</tr>
+	<tr>
+		<td>30</td>
+		<td class="pad" colspan="6">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table></div></aside><aside id="wpspace-recent-comments-widget-2" class="widget widget_wpspace_recent_comments"><h3 class="widget_title">Recent Comments</h3>
+					<ul>
+		
+                        	<li class="articleeven first">
+								<span class="author"><a href="http://shiftcv.themerex.net/author/admin/">admin</a></span>: <span class="comment">comment, just log in and view the post's...</span>
+                                <ol class="icons">
+                                	<li class="post_date"><span class="icon-time"></span>346 days ago</li>
+								</ol>
+							</li>
+			
+                        	<li class="articleodd">
+								<span class="author"><a href="http://wordpress.org/">Mr WordPress</a></span>: <span class="comment">Hi, this is a comment.
+To delete a comment,...</span>
+                                <ol class="icons">
+                                	<li class="post_date"><span class="icon-time"></span>380 days ago</li>
+								</ol>
+							</li>
+			
+			</ul>
+		</aside><aside id="archives-2" class="widget widget_archive"><h3 class="widget_title">Archives</h3>		<ul>
+			<li><a href='http://shiftcv.themerex.net/2013/07/' title='July 2013'>July 2013</a></li>
+	<li><a href='http://shiftcv.themerex.net/2013/06/' title='June 2013'>June 2013</a></li>
+	<li><a href='http://shiftcv.themerex.net/2013/05/' title='May 2013'>May 2013</a></li>
+		</ul>
+</aside><aside id="wpspace-twitter-widget-3" class="widget wpspace_twitter"><h3 class="widget_title">Twitter feed</h3>			
+		<div class="tweet widget_iframe_outer">
+							<a class="twitter-timeline" 
+					href="https://twitter.com/345535227000680448"
+					data-widget-id="345535227000680448"
+					data-link-color="#e50700"
+					data-border-color="#ffffff"
+					data-chrome="noavatars noheader nofooter noborders noscrollbar transparent"
+					data-tweet-limit="2"
+				>@345535227000680448</a>
+				<script type="text/javascript">
+					!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+				</script>
+						<script type="text/jscript">
+				formatTwitter();
+				function formatTwitter() {
+					var theme_style = jQuery('body').hasClass('dark') ? 'dark' : 'light';
+					var iframe_outer = jQuery('.widget.wpspace_twitter .widget_iframe_outer');
+					var alink = iframe_outer.find('>a');
+					if (alink.length > 0) {
+						alink.attr( {
+							'data-widget-id': '345535227000680448',							'data-tweet-limit': '2',
+							'data-link-color': theme_style=='light' ? '#019875' : '#019875',
+							'data-border-color': theme_style=='light' ? '#ffffff' : '#282828',
+							'data-chrome': 'noavatars noheader nofooter noborders noscrollbar transparent'
+						} );
+						alink.html('@345535227000680448');					}
+					var iframe = iframe_outer.find('iframe');
+					var twitter = iframe.length > 0 ? jQuery(iframe.get(0).contentDocument).find('div.stream') : [];
+					if (twitter.length > 0) {
+						twitter.find('.h-feed > li').each(function(idx) {
+							var author = jQuery(this).find('.header .p-nickname').text();
+							var author_link = jQuery(this).find('.header a.u-url').attr('href');
+							var dt = jQuery(this).find('a[data-datetime]').attr('data-datetime');
+							var diff = dateDifference(dt) + ' ago';
+							jQuery(this)
+								.css({
+									'paddingLeft': 0,
+									'paddingTop': 0,
+									'paddingBottom': 0,
+									'marginTop': (idx==0 ? '3px' : '24px'),
+									'borderTop': 'none',
+									})
+								.find('a[data-datetime]').hide().end()
+								.find('.header').hide().end()
+								.find('.footer').hide().end()
+								.find('.e-entry-title').css({
+									'color': theme_style=='light' ? '#646464' : '#878787'
+									}).prepend('<a href="' + author_link + '" target="_blank">' + author + '</a> ').end()
+								.find('.e-entry-content').append('<p style="color:' + (theme_style=='light' ? '#b1b1b1' : '#646464') + '">' + diff + '</p> ').end()
+								.find('a').css({'color': theme_style=='light' ? '#4ca5d0' : '#4ca5d0'}).end()
+								.find('.inline-media img').css({'height':'auto'});
+						});
+						iframe_outer.show();
+					} else {
+						iframe_outer.hide();
+						setTimeout("formatTwitter();", 200);
+					}
+				}
+			</script>
+		</div>
+		
+</aside><aside id="meta-2" class="widget widget_meta"><h3 class="widget_title">Meta</h3>			<ul>
+						<li><a href="http://shiftcv.themerex.net/wp-login.php">Log in</a></li>
+			<li><a href="http://shiftcv.themerex.net/feed/" title="Syndicate this site using RSS 2.0">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://shiftcv.themerex.net/comments/feed/" title="The latest comments to all posts in RSS">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>
+						</ul>
+</aside>        </aside>
+    </div><!-- #main -->
+	
+	<footer id="footer" class="site_footer" role="contentinfo">
+		<div class="footer_copyright">
+			ThemeREX &copy; 2013 All Rights Reserved		</div>
+	</footer>
+
+</div><!-- #page -->
+
+<script type='text/javascript' src='http://shiftcv.themerex.net/wp-content/themes/cv/js/jquery.tools.custom.js?ver=1.2.6'></script>
+<script type='text/javascript' src='http://shiftcv.themerex.net/wp-content/themes/cv/js/jquerycookie.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://shiftcv.themerex.net/wp-content/themes/cv/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript' src='http://shiftcv.themerex.net/wp-content/themes/cv/js/jquery.flexslider.min.js?ver=2.1'></script>
+<script type='text/javascript' src='http://shiftcv.themerex.net/wp-content/themes/cv/js/prettyphoto/jquery.prettyPhoto.js?ver=3.1.5'></script>
+<script type='text/javascript' src='http://shiftcv.themerex.net/wp-content/themes/cv/js/mediaplayer/mediaelement-and-player.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://shiftcv.themerex.net/wp-content/themes/cv/js/jreject/jquery.reject.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://shiftcv.themerex.net/wp-content/themes/cv/js/jquery.mobilemenu.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://shiftcv.themerex.net/wp-content/themes/cv/js/jquery.easing.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://shiftcv.themerex.net/wp-content/themes/cv/js/_utils.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://shiftcv.themerex.net/wp-content/themes/cv/js/_front.js?ver=1.0.0'></script>
+<a href="#" id="toTop"></a>
+<script type="text/javascript">
+    jQuery(document).ready(function() {
+        jQuery.reject({
+			reject : {
+				all: false, // Nothing blocked
+				msie5: true, msie6: true, msie7: true // Covers MSIE 5-7
+				/*
+				 * Possibilities are endless...
+				 *
+				 * // MSIE Flags (Global, 5-8)
+				 * msie, msie5, msie6, msie7, msie8,
+				 * // Firefox Flags (Global, 1-3)
+				 * firefox, firefox1, firefox2, firefox3,
+				 * // Konqueror Flags (Global, 1-3)
+				 * konqueror, konqueror1, konqueror2, konqueror3,
+				 * // Chrome Flags (Global, 1-4)
+				 * chrome, chrome1, chrome2, chrome3, chrome4,
+				 * // Safari Flags (Global, 1-4)
+				 * safari, safari2, safari3, safari4,
+				 * // Opera Flags (Global, 7-10)
+				 * opera, opera7, opera8, opera9, opera10,
+				 * // Rendering Engines (Gecko, Webkit, Trident, KHTML, Presto)
+				 * gecko, webkit, trident, khtml, presto,
+				 * // Operating Systems (Win, Mac, Linux, Solaris, iPhone)
+				 * win, mac, linux, solaris, iphone,
+				 * unknown // Unknown covers everything else
+				 */
+			},
+            imagePath: 'http://shiftcv.themerex.net/wp-content/themes/cv/js/jreject/images/',
+            header: 'Your browser is out of date', // Header Text
+            paragraph1: 'You are currently using an unsupported browser', // Paragraph 1
+            paragraph2: 'Please install one of the many optional browsers below to proceed',
+            closeMessage: 'Close this window at your own demise!' // Message below close window link
+        });
+    });
+        empt = 'Name field can not be empty';
+        to_lng = 'Too long name field';
+        to_lng = 'Too long name field';
+        empt_mail = 'Too short (or empty) email address';
+        to_lng_mail = 'Too long email address';
+        incor = 'Incorrect email address';
+        mes_empt = 'message can not be empty';
+        to_lng_mes = 'Too long message';
+                init_ind = -1        </script>
+</body>
+</html>
