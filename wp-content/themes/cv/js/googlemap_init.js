@@ -7,6 +7,7 @@ var googlemap_init_obj = {
 	point: null,
 	description: null
 }
+
 function googlemap_init(dom_obj, address, description, point) {
 	googlemap_init_obj.dom = dom_obj;
 	googlemap_init_obj.point = point;
